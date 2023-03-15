@@ -13,6 +13,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
 *{
 
   margin: 0;
@@ -22,12 +24,13 @@ export default {
   background: #264653;
   color: #fff;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 
 }
 
-.section__padding{
+section{
   padding: 2rem 2rem;
 }
 </style>

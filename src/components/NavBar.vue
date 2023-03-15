@@ -1,7 +1,7 @@
 <template>
     <nav>
 
-        <p><router-link to="/">Counter App</router-link></p>
+        <p><router-link to="/">Kounter</router-link></p>
 
 <ul class="nav-links">
     <li><router-link to="/">Home</router-link></li>

@@ -172,5 +172,16 @@ color: grey;
     padding: 1rem;
     border-radius: 0.5rem 0.5rem;
 }
+.counter h2 {
+  font-size: 1.5rem;
+
+}
+
+.counter-cover{
+
+min-width: 100px;
+min-height: 100px;
+
+}
     }
 </style>

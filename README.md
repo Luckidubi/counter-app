@@ -1,4 +1,5 @@
-# counter-app
+# counter-app  [Live Link](https://kounter-app.netlify.app/)
+##
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -20,10 +20,12 @@ export default {
   margin: 0;
   padding: 0;
 }
+
 .app{
   background: #264653;
   color: #fff;
   width: 100vw;
+  height: 100%;
   min-height: 100vh;
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;

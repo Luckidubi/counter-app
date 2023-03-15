@@ -81,7 +81,7 @@ min-height: 200px;
   object-fit: contain;
   border-radius: 50%;
 margin-bottom: 2rem;
-overflow-x: scroll;
+text-overflow: ellipsis;
 padding: 1rem;
 }
 

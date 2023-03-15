@@ -38,6 +38,7 @@ display: flex;
   justify-content: center;
   flex-direction: row;
   gap: 3rem;
+  min-height: 100%;
 
 }
 .home-content{
@@ -105,10 +106,7 @@ display: flex;
 }
 }
 @media screen and (max-width: 425px){
-    .homepage::after{
-        content: "";
-        height: 100%;
-    }
+    
     .home-content h1{
     font-size: 28px;
     font-weight: 800;

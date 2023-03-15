@@ -7,7 +7,7 @@
 
 The counter component is built using the Vue.js Composition API, which provides a powerful and flexible way to manage state and logic in your components.
 
-Feel free to play around with the counter and explore the code to see how it works.
+Feel free to play around with the counter and explore the <a class="code" href="https://github.com/Luckidubi/counter-app" title="Github link" target="_blank">code</a> to see how it works.
 
 </p>
 
@@ -77,7 +77,9 @@ display: flex;
   font-weight: 800;
   margin-bottom: 3rem;
 }
-
+.code{
+    text-decoration: underline;
+}
 
 
 @media screen and (max-width: 1024px){
@@ -106,7 +108,7 @@ display: flex;
 }
 }
 @media screen and (max-width: 425px){
-    
+
     .home-content h1{
     font-size: 28px;
     font-weight: 800;

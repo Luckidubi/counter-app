@@ -11,14 +11,15 @@ export default createStore({
     },
 
     decrement(state) {
-        if (state.count > 0){
+
       state.count--;
-        }
+
     },
 
     reset(state) {
       state.count = 0;
       
+
     },
 
     setValue(state, value) {
